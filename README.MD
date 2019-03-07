@@ -1,13 +1,16 @@
-
+<!DOCTYPE html>
 <html>
 <head>
-	
-	
+	<title>www.taobao.com
+	</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="exercise1.css">
 </head>
+<body>
+hhh
 
-www.taobao.com
+</body>
+
 <a href="https://www.baidu.com">www.taobao.com</a>
 <a href="https://www.baidu.com">www.yehao1.com</a>
 <a href="https://www.baidu.com">www.yehao2.com</a>
