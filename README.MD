@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>www.taobao.com
@@ -6,10 +6,7 @@
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="exercise1.css">
 </head>
-<body>
 
-
-</body>
 
 <a href="https://www.baidu.com">www.taobao.com</a>
 <a href="https://www.baidu.com">www.yehao1.com</a>
