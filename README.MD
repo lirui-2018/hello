@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>www.taobao.com
-	</title>
-	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="exercise1.css">
+	
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="exercise1.css">
 </head>
 <body>
-hhh
+
 
 </body>
 
