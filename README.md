@@ -7,7 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="exercise1.css">
 </head>
 <body>
-hhh
+
 
 </body>
 
