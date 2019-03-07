@@ -1,8 +1,8 @@
 
 <html>
 <head>
-	<title>www.taobao.com
-	</title>
+	www.taobao.com
+	
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="exercise1.css">
 </head>
