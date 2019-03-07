@@ -1,13 +1,13 @@
 
 <html>
 <head>
-	www.taobao.com
+	
 	
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="exercise1.css">
 </head>
 
-
+www.taobao.com
 <a href="https://www.baidu.com">www.taobao.com</a>
 <a href="https://www.baidu.com">www.yehao1.com</a>
 <a href="https://www.baidu.com">www.yehao2.com</a>
