@@ -10,12 +10,28 @@
 <body>
 点一个试试！
 
-</body>
+
 
 <a href="https://lirui-2018.github.io/hello/baidu.html">www.taobao.com</a>
 <a href="https://lirui-2018.github.io/hello/baidu.html">www.yehao1.com</a>
 <a href="https://lirui-2018.github.io/hello/baidu.html">www.yehao2.com</a>
 <a href="https://lirui-2018.github.io/hello/baidu.html">www.yehao3.com</a>
-
-
+<script type="text/javascript">
+ 
+    function init() {
+        //Article-content 为显示二维码的div id
+        $("#Article-content").qrcode({
+                         render : "canvas",    //设置渲染方式，有table和canvas，使用canvas方式渲染性能相对来说比较好
+                         text: "https://www.myindex.com/my.html",    //扫描二维码后显示的内容,可以直接填一个网址，扫描二维码后自动跳向该链接
+                         width : "200",               //二维码的宽度
+                         height : "200",              //二维码的高度
+                        background : "#ffffff",       //二维码的后景色
+                         foreground : "#000000",        //二维码的前景色
+                         src: '/img/logo.jpg'             //二维码中间的图片
+                 });
+    }
+ 
+    init();
+</script>
+</body>
 </html>
