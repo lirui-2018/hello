@@ -1,14 +1,16 @@
 # welcome to my webside
 
-
+```html
+<!DOCTYPE html>
 <html>
 <head>
-	www.taobao.com
+	<title>www.taobao.com
+	</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="exercise1.css">
 </head>
 <body>
-
+hhh
 
 </body>
 
@@ -19,3 +21,4 @@
 
 
 </html>
+```
